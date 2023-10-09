@@ -1,0 +1,15 @@
+.sign{
+    border:10px solid black;
+    border-radius: 10px;
+    width:350px;
+    height:400px;
+    justify-content: center;
+    margin-left:35%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#but {
+    justify-self: center;
+    justify-content: center;
+    margin-left: 30%;
+}
